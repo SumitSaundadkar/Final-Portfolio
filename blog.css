@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container{
+    background-color:burlywood;
+    color: rgb(0, 7, 10);
+    padding: 1rem;
+    padding-top: 1rem;
+    padding-right: 20rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+   border-radius: 0px 0px 40px 40px;
+    box-shadow: 10px 10px 10px  black;
+    
+}
+.brand {
+    font-weight: bolder;
+    font-size: large;
+    color:rgb(0, 7, 10);
+    font-size: 30px;
+}
+.list-item {
+    list-style: none;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    text-align: right;
+    font-size: large;
+    text-decoration: none;
+}
+.list-item-lnline {
+    display: inline;
+    padding: 0rem 0.3rem;
+    padding-top: 0rem;
+    padding-right: 0.3rem;
+    padding-bottom: 0rem;
+    padding-left: 0.3rem;
+    text-decoration: none;
+    
+}
+li {
+    display: list-item;
+    text-align: center;
+    
+    font-size: 25px;
+}
+.link{
+    text-decoration: none;
+    color:rgb(0, 7, 10);
+    justify-content: space-around;
+    padding: 5rem;
+    padding-top: 10px;
+}
+header{
+    display: block;
+}
+.hero {
+    padding: 2rem;
+    padding-top: 5rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-top: 5rem;
+}
+.hero .hero-img {
+    max-width: 400px;
+    display: block;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    
+}
+.section {
+    display: block;
+    padding: 2rem;
+    padding-top: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    font-size: larger;
+    
+}
+.content {
+    max-width: 600px;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding-bottom: 2rem;
+}
+h1{
+    text-align: center;
+    color: rgb(34, 5, 61)
+}
+p{
+    text-align: center;
+    padding-top: 5px;
+}
+.techno{
+    color: rgb(34, 5, 61);
+}
+.link-primary{
+    background-color:rgb(4, 100, 109) ;
+    color: whitesmoke;
+    margin-left: 15rem;
+    margin-top: 15px;
+    border-radius: 5px 5px 5px 5px;
+    border-style: initial;
+    font-size: larger;
+    text-decoration: none;
+    display: inline-block;
+    
+}.footer {
+    background-color: burlywood;
+    color: rgb(34, 5, 61) ;
+    padding: 1rem 0.5rem;
+    padding-top: 3rem;
+    padding-right: 0.5rem;
+    padding-bottom: 4rem;
+    border-radius: 0px 0px 40px 40px;
+    text-align: center;
+    font-size: 15px;
+    bottom: 0;
+    width: 100%;
+     box-shadow: 10px 15px 20px  black;
+}
+.address {
+    font-weight: bolder;
+    font-size: 25px;
+    background-color: whitesmoke;
+    padding-top: 2rem;
+}
+.myProjects{
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+    color:rgb(0, 7, 10);
+    font-size: 30px;
+}
+.list-non-bullet {
+    list-style: none;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+}
+.title{
+    text-align: center;
+}
+.project-link{
+    background-color:rgb(4, 100, 109) ;
+    color: whitesmoke;
+    margin-left: 2rem;
+    margin-top: 15px;
+    padding-left: 15px;
+    border-radius: 5px 5px 5px 5px;
+    border-style: initial;
+    font-size: larger;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    
+}
+.project-link:hover{
+  color: black;
+  transition: 0.5sec;
+
+}
+.list-data{
+  display: inline-block;
+   padding-left: 22rem;
+   text-align: center;
+}
+.link:hover{
+  color: whitesmoke;
+  transition: 0.5sec;
+}
+.link-primary:hover{
+  color: blueviolet;
+  transition: 0.5sec;
+
+}
+
+
